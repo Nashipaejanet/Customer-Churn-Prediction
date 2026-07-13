@@ -1,5 +1,10 @@
 # Customer Churn Prediction
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-ML-orange)
+![XGBoost](https://img.shields.io/badge/XGBoost-boosting-green)
+![Pandas](https://img.shields.io/badge/pandas-data-150458)
+
 Predicting customer churn for a telecom company using the Telco Customer Churn dataset (7,043 customers, 21 features).
 
 ## Overview
