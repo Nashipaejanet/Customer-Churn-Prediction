@@ -1,0 +1,10 @@
+cd path/to/customer-churn-prediction
+cat > .gitignore << 'EOF'
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+.DS_Store
+EOF
